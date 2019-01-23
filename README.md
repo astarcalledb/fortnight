@@ -51,3 +51,9 @@ $ touch README.md
 * Then tell Netlify about the site
 * Rename the URL on Netlify to something easy to remember
 * Then after adding and viewing your live site make a change, add an image to your site locally and see if you can remember how to update the live site
+
+
+## Cool Links
+font awesomw
+sublime text keymap and settings importer
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
